@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "LibraryCongiguration.dtd">
+
+<ConfigurationLibrary>
+        <book id="book1">
+                <author>rahma</author>
+                <title>authorities</title>
+                <genre>ethics</genre>
+                <price>77</price>
+                <publish_date>2023-02-01</publish_date>
+                <description>social ethics</description>
+        </book>
+        <book id="book2">
+                 <author>roma&amp;&amp;roro</author>
+                <title>khemia2y</title>
+                <genre>adab</genre>
+                <price>33</price>
+                <publish_date>2022-4-03</publish_date>
+                <description>adventure</description>
+        </book>
+        <book id="book3">
+                <author>roma</author>
+                <title>nazriat el fostok</title>
+                <genre>socil</genre>
+                <price> 33.2&gt;33</price>
+                <publish_date>2021-02-01</publish_date>
+                <description>An &quot;in-depth&quot; lookforwar</description>
+        </book>
+        <book id="book4">
+                <author>roro</author>
+                <title> rahma</title>
+                <genre>history</genre>
+                <price>77</price>
+                <publish_date>2023-02-11</publish_date>
+                <description>life history for successful women</description>
+        </book>
+        
+</configurationLibrary>
+
+
+
